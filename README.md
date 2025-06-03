@@ -2,6 +2,8 @@
 
 I'm Nick — a Senior Software Engineer focused on developer experience, system design, and human-centered solutions. I value curiosity, compassion, and courage, and I show it by relentlessly experimenting to make people's lives easier.
 
+Outside the screen, I love to challenge myself through ultra-cycling, chase knowledge, gather my friends for game night, and spoil my cats 😺
+
 ### 🛠️ Projects I'm currently excited about
 
 - 💬 [wanna](https://wanna.social): Social app to make **spontaneous hangouts** effortless and inclusive.
