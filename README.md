@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I'm Nick — a Senior Software Engineer focused on developer experience, system design, and human-centered solutions. I value curiosity, compassion, and courage, and I show it by relentlessly experimenting to make people's lives easier.
+I'm Nick — a Senior Software Engineer focused on developer experience, system design, and human-centered solutions.
 
 Outside the screen, I love to challenge myself through ultra-cycling, chase knowledge, gather friends for game night, and spoil my cats 😺
 
