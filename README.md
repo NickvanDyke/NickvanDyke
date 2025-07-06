@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I'm Nick — a Senior Software Engineer focused on developer experience, system design, and human-centered solutions.
+I'm Nick — a Staff Software Engineer focused on developer experience, system design, and human-centered solutions. I love to create environments where developers can move quickly and safely to deliver meaningful products.
 
 Outside the screen, I love to challenge myself through ultra-cycling, chase knowledge, gather friends for game night, and spoil my cats 😺
 
