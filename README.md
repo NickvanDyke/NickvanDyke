@@ -2,7 +2,7 @@
 
 I'm as tired as you are of embellished AI slop, so I'll keep it short 😄
 
-I like engineering, especially deeply technical or cutting edge. I like a challenge. I like contributing to my community.
+I like engineering, especially deeply technical or cutting edge. I like contributing to my community. I like a challenge.
 
 _So if you're building something that measurably betters engineers' lives or humanity's well-being, I'd love to hear about it._
 
