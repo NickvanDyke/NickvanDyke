@@ -1,4 +1,4 @@
-## Hello World 👋
+## Hello, World! 👋
 
 I'm as tired as you are of embellished AI slop, so I'll keep it short 😄
 
