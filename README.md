@@ -2,10 +2,10 @@
 
 I'm as tired as you are of embellished AI slop, so I'll keep it short 😄
 
-I like engineering, especially deeply technical or cutting edge. I like contributing to my community. I like a challenge.
+I'm an engineer driven by **deeply technical challenges** and **cutting-edge systems**. I like building tools that measurably improve the lives of other engineers or contribute to the broader well-being of humanity.
 
-_So if you're building something that measurably betters engineers' lives or humanity's well-being, I'd love to hear about it._
+_So if you're building something like that, I'd love to hear about it._
 
-**Open to opportunities**: quality engineering, meaningful projects, collaborative technical teams.
+I’m currently open to opportunities involving **quality engineering**, **meaningful impact**, and **collaborative technical teams**.
 
-**Let's talk**: nickjvandyke15@gmail.com | [LinkedIn](https://www.linkedin.com/in/nickjvandyke)
+**Let's talk:** nickjvandyke15@gmail.com | [LinkedIn](https://www.linkedin.com/in/nickjvandyke)
