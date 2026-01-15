@@ -2,7 +2,7 @@
 
 I'm as tired as you are of embellished AI slop, so I'll keep it short 😄
 
-I'm an engineer driven by **deeply technical challenges** and **cutting-edge systems**. I like building tools that measurably improve the lives of other engineers or contribute to the broader well-being of humanity.
+I'm a Staff engineer driven by **deeply technical challenges** and **cutting-edge systems**. I like building tools that measurably improve the lives of other engineers or contribute to the broader well-being of humanity.
 
 _So if you're building something like that, I'd love to hear about it._
 
